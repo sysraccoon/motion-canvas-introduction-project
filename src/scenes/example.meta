@@ -1,0 +1,14 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "window-spawn",
+      "targetTime": 0.33439744612929
+    },
+    {
+      "name": "introduction-wait",
+      "targetTime": 1.57196062782655
+    }
+  ],
+  "seed": 413701878
+}
